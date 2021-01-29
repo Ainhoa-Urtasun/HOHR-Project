@@ -7,3 +7,4 @@
 * The HOHR Project will consist of 8 Tasks and a final oral presentation
 * Each Task is worth +1 (out of 10) if completed satisfactorily and by its due date (-0.5 if poorly completed and/or -0.5 if not completed by its due date)
 * The final presentation is worth +2 (out of 10) if completed satisfactorily and by all the members of the group
+Ainhoa
