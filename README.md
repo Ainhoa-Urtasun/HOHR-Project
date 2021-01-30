@@ -10,11 +10,14 @@
 * 2 out of 10 for outstanding projects
 
 ## Task 1
-* Name of your company:________________________
-* Describe the primary activity your company will perform:_________________________________________________
-* NAICS 4-digit code:__________________________
+* Name of your company:____________________________________________________________________________________________________
+* Describe the primary activity your company will perform:_________________________________________________________________
+* NAICS 4-digit code:______________________________________________________________________________________________________
 * Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)
 * For help, please visit: https://www.naics.com/search/ and https://www.naics.com/naics-identification-help/
+* Detailed primary activities divided into engineering activities and operations activities:________________________________
+* Support activities:_______________________________________________________________________________________________________
+
 ## Task 2
 ## Task 3
 ## Task 4
