@@ -15,7 +15,9 @@
 * Describe the primary activity your company will perform:
 ***
 * NAICS 4-digit code:
+
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
+
 For help, please visit: [NAICS Search](https://www.naics.com/search/) and [NAICS LOOKUP HELP](https://www.naics.com/naics-identification-help/)
 ***
 * Detailed primary activities divided into engineering activities and operations activities:
