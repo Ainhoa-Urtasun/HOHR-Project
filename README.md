@@ -28,7 +28,7 @@ For help, please visit: [NAICS Search](https://www.naics.com/search/) and [NAICS
 ## Task 2
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
-* On Occupation Search or Occupation Quick Search, type, once at a time, Managers, Engineers and Operators and chose, for each occupation, one job that fits your company
+* On *Occupation Search* or *Occupation Quick Search*, type, once at a time, Managers, Engineers and Operators and chose, for each occupation, one job that fits your company
 ***
 ### Managers
 * ONET-SOC code and title:
