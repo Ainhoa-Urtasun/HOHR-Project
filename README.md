@@ -26,10 +26,31 @@ For help, please visit: [NAICS Search](https://www.naics.com/search/) and [NAICS
 ***
 
 ## Task 2
-* Objective: analyze and design your company's jobs for each of 3 occupations, Manager, Engineer and Operator by using [ONET](https://www.onetonline.org/) 
+* Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 * On Occupation Search or Occupation Quick Search, type, once at a time, Managers, Engineers and Operators and chose, for each occupation, one job that fits your company
 ***
+### Managers
+* ONET-SOC code and title:
+* 5 most important tasks they carry out (provide the importance score, in Details):
+* 5 most important skills they require to possess (provide the importance score, in Details):
+* Education:
+* Wages:
+* Top industry:
+### Engineers
+* ONET-SOC code and title:
+* 5 most important tasks they carry out (provide the importance score, in Details):
+* 5 most important skills they require to possess (provide the importance score, in Details):
+* Education:
+* Wages:
+* Top industry:
+### Operators
+* ONET-SOC code and title:
+* 5 most important tasks they carry out (provide the importance score, in Details):
+* 5 most important skills they require to possess (provide the importance score, in Details):
+* Education:
+* Wages:
+* Top industry:
 
 ## Task 3
 ## Task 4
