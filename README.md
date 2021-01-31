@@ -26,6 +26,11 @@ For help, please visit: [NAICS Search](https://www.naics.com/search/) and [NAICS
 ***
 
 ## Task 2
+* Objective: analyze and design your company's jobs for each of 3 occupations, Manager, Engineer and Operator by using [ONET](https://www.onetonline.org/) 
+***
+* On Occupation Search or Occupation Quick Search, type, once at a time, Managers, Engineers and Operators and chose, for each occupation, one job that fits your company
+***
+
 ## Task 3
 ## Task 4
 ## Task 5
