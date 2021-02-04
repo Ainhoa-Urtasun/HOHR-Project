@@ -14,6 +14,7 @@
 * Why GitHub? For working collaboratively 
 
 ## Task 1
+* Objective: create your AM firm from scratch
 * Name of your company:
 ***
 * Describe the primary activity your company will perform:
@@ -57,6 +58,11 @@ For help, please visit: [NAICS Search](https://www.naics.com/search/) and [NAICS
 * Top industry:
 
 ## Task 3
+* Objective: forecast your firm's number of available workers
+***
+Your company hasn't hired any worker so far. It will start hiring in one year. During this very first year, you are going to be its only workers. And you all will work as managers. Use the following historical information on staff movements from an older company similar to yours: Out of 10 managers, 8 stay in the same occupation, 1 moved to operators and 1 left the firm during one year; Out of 20 engineers, 15 stayed in the same occupation, 2 moved to managers, and 3 moved to operators during one year; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many workers your company will have in each of its 3 occupation in one year from now.
 ## Task 4
+* Objective: forecast your firm's need for workers
+***
 ## Task 5
 ## Task 6
