@@ -79,6 +79,6 @@ Explore [Indeed](https://www.indeed.com/l-Remote-jobs.html) and post 1 job vacan
 ### Operators
 ***
 ## Task 6
-* Objective: Make your work public
+* Objective: Give visibility to your project
 ***
 Create a web page on GitHub to publish your work
