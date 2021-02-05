@@ -58,15 +58,17 @@ For help, please visit: [NAICS Search](https://www.naics.com/search/) and [NAICS
 * Education:
 * Wages:
 * Top industry:
-
+***
 ## Task 3
 * Objective: forecast your firm's number of available workers
 ***
 Your company hasn't hired any worker so far. It will start hiring in one year. During this very first year, you are going to be its only workers. And you all will work as managers. Historical information on staff movements: Out of 10 managers, 8 stay in the same occupation, 1 moved to operators and 1 left the firm during one year; Out of 20 engineers, 15 stayed in the same occupation, 2 moved to managers, and 3 moved to operators during one year; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many workers your company will have in each of its 3 occupation in one year from now.
+***
 ## Task 4
 * Objective: forecast your firm's need for workers
 ***
 Last three years data on unemployment for managers was 14%, 20% and 15% for managers; 13%, 10%, 12% for engineers; and 15%, 12%, and 16% for operators. Last three years need for workers 2, 2, 2 for managers; 3, 2, 4 for engineers; and 2, 1, 6 for operators. Using this information, predict how many workers your company will need in each of its 3 occupations in one year from now. For each occupation, compare your predictions on the number of available workers and the number of workers needed to anticipate mismatches.
+***
 ## Task 5
 * Objective: Post job vacancies
 ***
@@ -75,6 +77,7 @@ Explore [Indeed](https://www.indeed.com/l-Remote-jobs.html) and post 1 job vacan
 ### Managers
 ### Engineers
 ### Operators
+***
 ## Task 6
 * Objective: Make your work public
 ***
