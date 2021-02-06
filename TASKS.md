@@ -66,6 +66,6 @@ Post 1 job vacancy for each occupation to work on remote by describing the tasks
 ### Job posting for Operators:
 ***
 ## Task 6
-* Objective: Give visibility to your project
+* Objective: Create a website for your project
 ***
-Create a web page on GitHub to publish your work
+[GitHub Pages](https://pages.github.com/)
