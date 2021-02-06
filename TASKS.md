@@ -1,3 +1,5 @@
+This writing uses Markdown, for help go to [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
 ## Task 1
 * Objective: create your AM firm from scratch
 * Name of your company:
@@ -57,11 +59,11 @@ Last three years data on unemployment for managers was 14%, 20% and 15% for mana
 ## Task 5
 * Objective: Post job vacancies
 ***
-Explore [Indeed](https://www.indeed.com/l-Remote-jobs.html) and post 1 job vacancy for each occupation to work on remote.
+Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
-### Managers
-### Engineers
-### Operators
+### Job posting for Managers:
+### Job posting for Engineers:
+### Job posting for Operators:
 ***
 ## Task 6
 * Objective: Give visibility to your project
