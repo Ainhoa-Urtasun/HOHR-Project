@@ -49,12 +49,12 @@ For help, please visit: [NAICS Search](https://www.naics.com/search/) and [NAICS
 ## Task 3
 * Objective: forecast your firm's number of available workers
 ***
-Your company hasn't hired any worker so far. It will start hiring in one year. During this very first year, you are going to be its only workers. And you all will work as managers. Historical information on staff movements: Out of 10 managers, 8 stay in the same occupation, 1 moved to operators and 1 left the firm during one year; Out of 20 engineers, 15 stayed in the same occupation, 2 moved to managers, and 3 moved to operators during one year; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many workers your company will have in each of its 3 occupation in one year from now.
+You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have  company will have in one year from now.
 ***
 ## Task 4
-* Objective: forecast your firm's need for workers
+* Objective: forecast your firm's need for workers and anticipate mismatches
 ***
-Last three years data on unemployment for managers was 14%, 20% and 15% for managers; 13%, 10%, 12% for engineers; and 15%, 12%, and 16% for operators. Last three years need for workers 2, 2, 2 for managers; 3, 2, 4 for engineers; and 2, 1, 6 for operators. Using this information, predict how many workers your company will need in each of its 3 occupations in one year from now. For each occupation, compare your predictions on the number of available workers and the number of workers needed to anticipate mismatches.
+Last three years data on unemployment for managers was 15%, 17% and 14% for managers; 6%, 6%, 5% for engineers; and 23%, 27%, and 25% for operators. Last three years, the need for workers on average and per firm was 4, 6, 5 for managers; 13, 12, 13 for engineers; and 7, 7, 9 for operators. Using this information, predict how many workers your company will need in each of its 3 occupations in one year from now if an overall unemployment is predicted to be 10%. For each occupation, compare your predictions on the number of available workers and the number of workers needed to anticipate mismatches.
 ***
 ## Task 5
 * Objective: Post job vacancies
