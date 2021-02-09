@@ -54,7 +54,7 @@ You plan to start hiring workers next year. During this very first year, you are
 ## Task 4
 * Objective: forecast your firm's need for workers and anticipate mismatches
 ***
-Last three years data on unemployment for managers was 15%, 17% and 14% for managers; 6%, 6%, 5% for engineers; and 23%, 27%, and 25% for operators. Last three years, the need for workers on average and per firm was 4, 6, 5 for managers; 13, 12, 13 for engineers; and 7, 7, 9 for operators. Using this information, predict how many workers your company will need in each of its 3 occupations in one year from now if an overall unemployment is predicted to be 10%. For each occupation, compare your predictions on the number of available workers and the number of workers needed to anticipate mismatches.
+Last three years data on unemployment for managers was 15%, 17% and 14% for managers; 6%, 6%, 5% for engineers; and 23%, 27%, and 25% for operators. Last three years, the need for workers on average and per firm was 4, 6, 5 for managers; 13, 12, 13 for engineers; and 7, 7, 9 for operators. Using this information, predict how many workers your company will need in each of its 3 occupations in one year from now if overall unemployment is predicted to be 10%. For each occupation, compare your predictions on the number of available workers and the number of workers needed to anticipate mismatches.
 ***
 ## Task 5
 * Objective: Post job vacancies
