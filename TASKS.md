@@ -43,12 +43,12 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Top industry:
 ***
 ## Task 3
-* Objective: forecast your firm's number of available workers using Python (click the black button at the top)
+* Objective: forecast your firm's number of available workers using Python (click the black button at the top of the README.md file)
 ***
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 ***
 ## Task 4
-* Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top)
+* Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top of the README.md file)
 ***
 Last three years data on unemployment for managers was 15%, 17% and 14% for managers; 6%, 6%, 5% for engineers; and 23%, 27%, and 25% for operators. Last three years, the need for workers on average and per firm was 4, 6, 5 for managers; 13, 12, 13 for engineers; and 7, 7, 9 for operators. Using this information, predict how many workers your company will need in one year from now for each of its 3 occupations if unemployment is predicted to be 10% for managers, 4% for engineers, and 20% for operators. 
 
