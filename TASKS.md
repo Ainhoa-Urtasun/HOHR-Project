@@ -2,13 +2,16 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 
 ## Task 1
 * Objective: create your AM firm from scratch
-* Name of your company:
 ***
-* NAICS (at least 4-digit) code and description from [NAICS Search](https://www.naics.com/search/):
+* Your company's name:
+***
+* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
-* Click to view top businesses by revenue for your NAICS code and write the corporate name and total employees of the top 3 businesses:
+* Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
+***
+* Number of businesses in your NAICS code [Market Research](https://www.naics.com/market-research/):
 ***
 * List your company's primary activities and divide them into engineering activities and operations activities:
 ***
@@ -17,8 +20,6 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 
 ## Task 2
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
-***
-* On *Occupation Search* or *Occupation Quick Search*, type, once at a time, Managers, Engineers and Operators and chose, for each occupation, one job that fits your company
 ***
 ### Managers
 * ONET-SOC code and title:
@@ -42,11 +43,13 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Wages:
 * Top industry:
 ***
+
 ## Task 3
 * Objective: forecast your firm's number of available workers using Python (click the black button at the top of the README.md file)
 ***
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 ***
+
 ## Task 4
 * Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top of the README.md file)
 ***
@@ -54,15 +57,15 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 ***
+
 ## Task 5
-* Objective: Post job vacancies
-***
-Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
+* Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
 ### Job posting for Engineers:
 ### Job posting for Operators:
 ***
+
 ## Task 6
 * Objective: Create a website for your project
 ***
