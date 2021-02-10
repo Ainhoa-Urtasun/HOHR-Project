@@ -1,7 +1,7 @@
 This writing uses Markdown, for help go to [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Task 1
-* Objective: create your AM firm from scratch
+* Objective: analyze the industry in which your AM firm will compete and decide the primary and support activities your company will perform
 ***
 * Your company's name:
 ***
@@ -11,11 +11,11 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
 ***
-* Number of businesses in your NAICS code [Market Research](https://www.naics.com/market-research/):
+* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 ***
-* List your company's primary activities and divide them into engineering activities and operations activities:
+* List of your company's primary activities and divide them into engineering activities and operations activities:
 ***
-* List your company's support activities:
+* List of your company's support activities:
 ***
 
 ## Task 2
