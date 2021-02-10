@@ -13,7 +13,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 ***
-* List of your company's primary activities and divide them into engineering activities and operations activities:
+* List of your company's primary activities divided into engineering activities and operations activities:
 ***
 * List of your company's support activities:
 ***
