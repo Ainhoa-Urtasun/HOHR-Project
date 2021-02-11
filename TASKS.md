@@ -25,6 +25,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
 * 5 most important skills they require to possess (provide the importance score, in Details):
+* 5 technology skills:
 * Education:
 * Wages:
 * Top industry:
@@ -32,6 +33,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
 * 5 most important skills they require to possess (provide the importance score, in Details):
+* 5 technology skills
 * Education:
 * Wages:
 * Top industry:
@@ -39,6 +41,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
 * 5 most important skills they require to possess (provide the importance score, in Details):
+* 5 technology skills:
 * Education:
 * Wages:
 * Top industry:
