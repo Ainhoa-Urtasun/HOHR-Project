@@ -24,6 +24,8 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ### Managers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
+* Is this job routine? Your judgment (0-10):
+* Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 5 technology skills:
 * Education:
@@ -32,6 +34,8 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
+* Is this job routine? Your judgment (0-10):
+* Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 5 technology skills
 * Education:
@@ -40,6 +44,8 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
+* Is this job routine? Your judgment (0-10):
+* Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 5 technology skills:
 * Education:
