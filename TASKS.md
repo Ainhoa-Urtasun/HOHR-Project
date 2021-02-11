@@ -1,7 +1,7 @@
 This writing uses Markdown, for help go to [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Task 1
-* Objective: analyze the industry in which your AM firm will compete and decide the primary and support activities your company will perform
+* Objective: analyze your industry and decide your primary and support activities
 ***
 * Your company's name:
 ***
