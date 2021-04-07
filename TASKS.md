@@ -68,7 +68,7 @@ Last but not least, for each occupation, compare your predictions to anticipate 
 ***
 
 ## Task 5
-* Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
+* Objective: Based on your predictions (from Tasks 3 and 4) and on each occupation's [automation risk](http://www.pitt.edu/~mrfrank/skillscape/#/landing), decide how many job openings for each occupation and post 1 job description for each occupation. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
 ### Job posting for Engineers:
@@ -79,3 +79,8 @@ Last but not least, for each occupation, compare your predictions to anticipate 
 * Objective: Create a website for your project
 ***
 [GitHub Pages](https://pages.github.com/)
+* Go to your HOHR-project repository's settings
+* In GitHub Pages, select theme under Theme Chooser
+* Branch gh-pages (your company's website) is automatically created once you choose a theme
+* Go back to your HOHR-project repository and switch branches from main to gh-pages
+* Edit index.md using Markdown
